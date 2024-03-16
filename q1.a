@@ -1,0 +1,9 @@
+#include<iostream>
+#include<cstdlib>
+using namspace std;
+int main(int argc,char* argv[])
+{
+	int num=argv[1];
+	cout<<num;
+	return 0;
+}
